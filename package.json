@@ -1,6 +1,6 @@
 {
   "name": "xzq-gulp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "static web app workflow",
   "keywords": [
     "xzq-gulp",
@@ -11,7 +11,7 @@
     "url": "https://github.com/xzq1992/xzq-gulp/issues"
   },
   "license": "MIT",
-  "author": "xzq1992",
+  "author": "cfjor <1072092863@qq.com>",
   "files": [
     "lib",
     "bin"
